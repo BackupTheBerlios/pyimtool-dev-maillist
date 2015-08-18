@@ -1,0 +1,24 @@
+From fpierfed at noao.edu  Sat Jun 12 09:26:39 2004
+From: fpierfed at noao.edu (Francesco Pierfederici)
+Date: Sat, 12 Jun 2004 00:26:39 -0700
+Subject: [Pyimtool-dev] Welcome
+Message-ID: <web-12391298@noao.edu>
+
+
+Welcome to the PyImtool developer list!
+
+Francesco
+
+
+From fpierfed at noao.edu  Sat Jun 12 09:21:34 2004
+From: fpierfed at noao.edu (Francesco Pierfederici)
+Date: Sat, 12 Jun 2004 00:21:34 -0700
+Subject: [Pyimtool-dev] Welcome
+Message-ID: <228DC190-BC41-11D8-848A-000A959E858E@noao.edu>
+
+Welcome to the PyImtool developer list!
+
+Francesco
+
+
+
